@@ -41,7 +41,8 @@ A aplicação sobrepõe uma imagem de mascote ao feed da câmera, exibindo o ví
 ## Exemplo de Uso
 O feed da câmera será exibido apenas na área verde da imagem:
 
-![Exemplo de Uso](https://via.placeholder.com/600x300) <!-- Substitua por um exemplo real -->
+![mascote](https://github.com/user-attachments/assets/13187090-2702-48f4-b275-cb5e12253d48)
+
 
 ## Atividades Adicionais no GitHub
 Como parte do curso, os alunos aprenderão a interagir com repositórios GitHub, incluindo as seguintes atividades:
