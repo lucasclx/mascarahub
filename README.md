@@ -1,8 +1,7 @@
 
-# Projeto: Máscara de Imagem com Feed da Câmera
+# Projeto: Máscara github
 
-Este projeto foi criado como parte de um curso básico de **Git e GitHub** voltado para estudantes do ensino médio. O objetivo é permitir que os alunos pratiquem clonagem de repositórios, execução de projetos em Python e conceitos básicos de manipulação de imagens e integração com o feed da câmera.
-
+Este projeto foi criado como parte de um curso básico de **Git e GitHub** voltado para estudantes do ensino médio. O objetivo é permitir que os alunos pratiquem clonagem de repositórios, 
 ## Descrição
 A aplicação sobrepõe uma imagem de mascote ao feed da câmera, exibindo o vídeo apenas nas áreas marcadas em verde (`#22b14c`). O projeto permite capturar uma foto pressionando a tecla `f` e fechar a janela com a tecla `q`.
 
